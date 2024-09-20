@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GringottsBank</string>
+    <string name="hello_blank_fragment">Добро пожаловать!</string>
+    <string name="startButtonText">Начать</string>
+    <string name="pictures_about_the_bank">pictures about the bank</string>
+    <string name="loginETHint">Введите логин</string>
+    <string name="passwordETHint">Введите пароль</string>
+    <string name="saveButtonText">Сохранить</string>
+    <string name="loginButtonText">Войти</string>
+    <string name="registrationButtonText">Зарегистрироваться</string>
+</resources>
